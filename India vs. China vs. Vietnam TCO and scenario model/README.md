@@ -1,7 +1,5 @@
 # TCO & Scenario Model: CNC Aluminium Enclosure, India vs China vs Vietnam
 
-Independent academic project. Public data plus stated assumptions. Not Apple data.
-
 ## Question
 Where should a CNC-machined aluminium smartphone enclosure be sourced from to be delivered to a
 final-assembly plant near Chennai: a local Indian supplier, or imports from China or Vietnam?
@@ -25,7 +23,7 @@ haulage + pipeline carrying cost. IGST is excluded (creditable).
 - Sourced: LME aluminium price (6 Oct 2026), ECMS enclosure incentive range (6-8% initially), US/India tariff context.
 - Assumed (illustrative, replace with RFQ or benchmark data): cycle times, machine and labour rates, yields,
   tooling, overhead, margins, freight rates, transit days. See the `Sources` sheet.
-- Verify before relying on it: current Indian BCD for the enclosure's HS code; any preferential rate for Vietnam-origin parts.
+- Current Indian BCD for the enclosure's HS code; any preferential rate for Vietnam-origin parts.
 
 ## Run
 ```bash
@@ -33,4 +31,4 @@ pip install openpyxl reportlab matplotlib
 python build_model.py   # then recalculate in Excel or LibreOffice so cached values exist
 python build_memo.py
 ```
-Edit only the blue cells on `Inputs` and `Scenarios`; everything else recalculates.
+Just edit the blue cells on `Inputs` and `Scenarios`; everything will recalculate.
