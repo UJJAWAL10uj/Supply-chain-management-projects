@@ -29,7 +29,7 @@ company data.
 
 ------------------------------------------------------------------------
 
-## 1. India vs. China vs. Vietnam --- TCO and Scenario Model
+## 1. India vs. China vs. Vietnam- TCO and Scenario Model
 
 **Status:** Completed\
 **Focus:** Country-level manufacturing and sourcing economics
@@ -127,11 +127,11 @@ The project includes an Excel dashboard that:
 
 ### Deliverables
 
--   `Enclosure_Localization_Supplier_Risk_Dashboard.xlsx` --- Excel
+-   `Enclosure_Localization_Supplier_Risk_Dashboard.xlsx`- Excel
     dashboard and editable scoring model
--   `Risk_Mitigation_Plan_Enclosure_Supply_Chain.pdf` --- two-page
+-   `Risk_Mitigation_Plan_Enclosure_Supply_Chain.pdf`- two-page
     risk-mitigation plan
--   `README_project2.md` --- project-specific documentation
+-   `README_project2.md`- project-specific documentation
 -   Build scripts for generating the dashboard and plan
 
 ### Data and confidence notes
@@ -146,7 +146,7 @@ sources before relying on them.
 
 ------------------------------------------------------------------------
 
-## 3. Debottlenecking Study --- Theory of Constraints
+## 3. Debottlenecking Study- Theory of Constraints
 
 **Status:** Completed\
 **Product context:** One module of an illustrative mobile-enclosure
@@ -215,22 +215,22 @@ not only at the workstation level.
 
 ### Deliverables
 
--   `Debottlenecking_Study_Enclosure_Line.xlsx` --- Excel model and
+-   `Debottlenecking_Study_Enclosure_Line.xlsx`- Excel model and
     dashboard
--   `Debottlenecking_Memo_Enclosure_Line.pdf` --- two-page findings and
+-   `Debottlenecking_Memo_Enclosure_Line.pdf`- two-page findings and
     recommendation memo
 -   `p3_code/simulate.py` --- simulation logic
--   `p3_code/run_experiments.py` --- scenario experiments
--   `p3_code/build_p3.py` and `p3_code/build_p3_memo.py` ---
+-   `p3_code/run_experiments.py`- scenario experiments
+-   `p3_code/build_p3.py` and `p3_code/build_p3_memo.py`-
     output-generation scripts
--   `p3_code/results.json` --- experiment results
--   `README_project3.md` --- project-specific documentation
+-   `p3_code/results.json`- experiment results
+-   `README_project3.md`- project-specific documentation
 
 ### Limitations
 
 Stage cycle times, intervention costs, and financial benefits are
 assumptions. OEE ranges are benchmark-informed, but the model should be
-recalibrated using real time studies, maintenance records, production
+recalibrated using real-time studies, maintenance records, production
 targets, and supplier quotations before operational use. Financial gains
 are demand-capped, and the model does not assign a dollar value to WIP
 or lead-time improvements.
