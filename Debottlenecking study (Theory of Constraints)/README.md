@@ -34,4 +34,3 @@ python run_experiments.py      # about 3-4 minutes, writes results.json
 python build_p3.py             # then recalculate in Excel or LibreOffice
 python build_p3_memo.py
 ```
-(The scripts use the author's paths; edit the path constants at the top of each file.)
