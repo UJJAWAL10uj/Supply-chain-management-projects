@@ -15,11 +15,11 @@ company data.
 
 ## Contents
 
-1.  [India vs. China vs. Vietnam --- TCO and Scenario
+1.  [India vs. China vs. Vietnam- TCO and Scenario
     Model](#1-india-vs-china-vs-vietnam--tco-and-scenario-model)
 2.  [Localization Gap and Supplier Risk
     Map](#2-localization-gap-and-supplier-risk-map)
-3.  [Debottlenecking Study --- Theory of
+3.  [Debottlenecking Study- Theory of
     Constraints](#3-debottlenecking-study--theory-of-constraints)
 4.  [AI Sourcing Copilot for Supplier Terms and
     Disruptions](#4-ai-sourcing-copilot-for-supplier-terms-and-disruptions)
