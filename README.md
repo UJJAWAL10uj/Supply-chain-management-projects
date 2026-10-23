@@ -5,7 +5,7 @@ localization strategy, production-system improvement, and AI-assisted
 procurement. The projects are linked through a common illustrative
 product context: **mobile aluminium enclosures**.
 
-**Project status:** Projects 1--3 completed; Project 4 in progress.\
+**Project status:** Projects 1-3 completed; Project 4 in progress.\
 **Data policy:** This is an independent project portfolio using
 public-source research, analyst assumptions, and simulated production
 data where stated. It does not use or imply access to confidential
@@ -16,11 +16,11 @@ company data.
 ## Contents
 
 1.  [India vs. China vs. Vietnam- TCO and Scenario
-    Model](#1-india-vs-china-vs-vietnam--tco-and-scenario-model)
+    Model](#1-india-vs-china-vs-vietnam-tco-and-scenario-model)
 2.  [Localization Gap and Supplier Risk
     Map](#2-localization-gap-and-supplier-risk-map)
 3.  [Debottlenecking Study- Theory of
-    Constraints](#3-debottlenecking-study--theory-of-constraints)
+    Constraints](#3-debottlenecking-study-theory-of-constraints)
 4.  [AI Sourcing Copilot for Supplier Terms and
     Disruptions](#4-ai-sourcing-copilot-for-supplier-terms-and-disruptions)
 5.  [How the Projects Connect](#5-how-the-projects-connect)
@@ -123,7 +123,7 @@ The project includes an Excel dashboard that:
     ramp delays across new plants (score 16).
 -   The mitigation plan contains **12 actions** across the top three
     risks, with owners, timing, and KPIs. Under the model, completing
-    the actions reduces residual risk by an estimated **40--55%**.
+    the actions reduces residual risk by an estimated **40-55%**.
 
 ### Deliverables
 
@@ -138,7 +138,7 @@ The project includes an Excel dashboard that:
 
 Supplier scores are analyst judgments based on public reporting, not
 independently audited supplier ratings. Three value-chain
-stages---cutting tools, surface finishing, and inspection---were marked
+stage-cutting tools, surface finishing, and inspection-were marked
 as analyst estimates because public sources were not available for them.
 Some supplier facts came from press reports citing unnamed sources.
 Plant timelines and supplier conditions can change; re-check the cited
@@ -219,7 +219,7 @@ not only at the workstation level.
     dashboard
 -   `Debottlenecking_Memo_Enclosure_Line.pdf`- two-page findings and
     recommendation memo
--   `p3_code/simulate.py` --- simulation logic
+-   `p3_code/simulate.py`- simulation logic
 -   `p3_code/run_experiments.py`- scenario experiments
 -   `p3_code/build_p3.py` and `p3_code/build_p3_memo.py`-
     output-generation scripts
@@ -427,5 +427,5 @@ The portfolio combines **TCO and scenario analysis, localization
 strategy, supplier risk assessment, Theory of Constraints,
 discrete-event simulation, and AI-assisted sourcing**. Its central theme
 is turning cost, supply-chain, and operational information into
-structured decisions---while making assumptions, evidence, and
+structured decisions-while making assumptions, evidence, and
 uncertainty explicit.
