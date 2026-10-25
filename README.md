@@ -5,7 +5,7 @@ localization strategy, production-system improvement, and AI-assisted
 procurement. The projects are linked through a common illustrative
 product context: **mobile aluminium enclosures**.
 
-**Project status:** Projects 1-3 completed; Project 4 in progress.\
+**Project status:** Projects 1-4 completed.\
 **Data policy:** This is an independent project portfolio using
 public-source research, analyst assumptions, and simulated production
 data where stated. It does not use or imply access to confidential
@@ -239,7 +239,7 @@ or lead-time improvements.
 
 ## 4. AI Sourcing Copilot for Supplier Terms and Disruptions
 
-**Status:** In progress\
+**Status:** Completed\
 **Tools planned/used in the partial implementation:** Python, optional
 LLM API, Streamlit front end
 
