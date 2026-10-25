@@ -1,0 +1,6 @@
+streamlit>=1.40
+pandas>=2.0
+altair>=5.0
+anthropic>=0.40      # optional: only needed for LLM mode
+openpyxl>=3.1        # only for scripts/make_registry.py
+pytest>=8.0
