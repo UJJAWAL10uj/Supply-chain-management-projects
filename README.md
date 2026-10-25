@@ -12,12 +12,12 @@ This portfolio does not imply access to confidential company data.
 
 ## Contents
 
-1.  [India vs. China vs. Vietnam --- TCO and Scenario
-    Model](#1-india-vs-china-vs-vietnam--tco-and-scenario-model)
+1.  [India vs. China vs. Vietnam- TCO and Scenario
+    Model](#1-india-vs-china-vs-vietnam-tco-and-scenario-model)
 2.  [Localization Gap and Supplier Risk
     Map](#2-localization-gap-and-supplier-risk-map)
-3.  [Debottlenecking Study --- Theory of
-    Constraints](#3-debottlenecking-study--theory-of-constraints)
+3.  [Debottlenecking Study- Theory of
+    Constraints](#3-debottlenecking-study-theory-of-constraints)
 4.  [AI Sourcing Copilot for Supplier Terms and
     Disruptions](#4-ai-sourcing-copilot-for-supplier-terms-and-disruptions)
 5.  [How the Projects Connect](#5-how-the-projects-connect)
@@ -26,7 +26,7 @@ This portfolio does not imply access to confidential company data.
 
 ------------------------------------------------------------------------
 
-## 1. India vs. China vs. Vietnam --- TCO and Scenario Model
+## 1. India vs. China vs. Vietnam- TCO and Scenario Model
 
 **Status:** Completed\
 **Focus:** Country-level manufacturing and sourcing economics
@@ -122,11 +122,11 @@ The Excel dashboard:
 
 ### Deliverables
 
--   `Enclosure_Localization_Supplier_Risk_Dashboard.xlsx` --- Excel
+-   `Enclosure_Localization_Supplier_Risk_Dashboard.xlsx`- Excel
     dashboard and editable scoring model
--   `Risk_Mitigation_Plan_Enclosure_Supply_Chain.pdf` --- two-page
+-   `Risk_Mitigation_Plan_Enclosure_Supply_Chain.pdf`- two-page
     risk-mitigation plan
--   `README_project2.md` --- project-specific documentation
+-   `README_project2.md`- project-specific documentation
 -   Build scripts for generating the dashboard and plan
 
 ### Data and confidence notes
@@ -141,7 +141,7 @@ sources before relying on them.
 
 ------------------------------------------------------------------------
 
-## 3. Debottlenecking Study --- Theory of Constraints
+## 3. Debottlenecking Study- Theory of Constraints
 
 **Status:** Completed\
 **Product context:** One module of an illustrative mobile-enclosure
@@ -210,16 +210,16 @@ not only at the workstation level.
 
 ### Deliverables
 
--   `Debottlenecking_Study_Enclosure_Line.xlsx` --- Excel model and
+-   `Debottlenecking_Study_Enclosure_Line.xlsx`- Excel model and
     dashboard
--   `Debottlenecking_Memo_Enclosure_Line.pdf` --- two-page findings and
+-   `Debottlenecking_Memo_Enclosure_Line.pdf`- two-page findings and
     recommendation memo
--   `p3_code/simulate.py` --- simulation logic
--   `p3_code/run_experiments.py` --- scenario experiments
--   `p3_code/build_p3.py` and `p3_code/build_p3_memo.py` ---
+-   `p3_code/simulate.py`- simulation logic
+-   `p3_code/run_experiments.py`- scenario experiments
+-   `p3_code/build_p3.py` and `p3_code/build_p3_memo.py`-
     output-generation scripts
--   `p3_code/results.json` --- experiment results
--   `README_project3.md` --- project-specific documentation
+-   `p3_code/results.json`- experiment results
+-   `README_project3.md`- project-specific documentation
 
 ### Limitations
 
@@ -234,7 +234,7 @@ or lead-time improvements.
 
 ## 4. AI Sourcing Copilot for Supplier Terms and Disruptions
 
-**Status:** Completed --- application built; LLM mode and live-news
+**Status:** Completed- application built; LLM mode and live-news
 fetching not yet verified in a live environment\
 **Tools:** Python, Streamlit, rule-based extraction/classification,
 optional LLM API
@@ -318,23 +318,12 @@ integration has been validated live.
 
 ### Deliverables
 
--   `sourcing_copilot.zip` --- application package
--   `Sourcing_Copilot_Report.pdf` --- report
--   `sourcing_copilot/README.md` --- setup and project documentation
--   `sourcing_copilot/app.py` --- Streamlit application
+-   `sourcing_copilot.zip`- application package
+-   `Sourcing_Copilot_Report.pdf`- report
+-   `sourcing_copilot/README.md`- setup and project documentation
+-   `sourcing_copilot/app.py`- Streamlit application
 -   The project notes also identify `classify.py`, `exposure.py`, and
     `evaluate.py` as relevant implementation/evaluation components.
-
-### Limitations and assumptions
-
-Sample supplier quotes are synthetic. Port mappings, supplier dependency
-flags, exposure weights, and some other configuration values are analyst
-assumptions. Currency conversion rates for CNY, VND, and EUR were
-described as rough placeholders and should be updated before relying on
-the cost comparisons. The report still contains the placeholder
-`[Your name]`. News signals should be checked against their linked
-sources, and AI/rule-based outputs should be reviewed before sourcing
-decisions.
 
 ------------------------------------------------------------------------
 
